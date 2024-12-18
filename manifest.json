@@ -5,7 +5,7 @@
 	"display_override": ["standalone"],
 	"name": "Idle Breakout",
 	"orientation": "any",
-	"scope": "/",
+	"scope": "./",
 	"lang": "en",
 	"short_name": "Idle Breakout",
 	"start_url": "index.html",
